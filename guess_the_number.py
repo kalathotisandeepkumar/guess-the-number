@@ -27,7 +27,7 @@ elif(n==70):
   print("Your selected number is 7")
 elif(n==80):
   print("Your selected number is 8")
-elif:
+elif(n==90):
   print("Your selected number is 9")
 else:
   print("Please check the steps or mathematical calculation error")
